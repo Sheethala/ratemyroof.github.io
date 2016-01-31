@@ -71,7 +71,7 @@
 #ratemyroof-title {
     color: floralwhite;
     padding-bottom: 10px;
-    
+
 }
 
 body {
@@ -92,7 +92,7 @@ footer {
     text-align: center;
     height: auto;
     background-color: rgba(000,000,000,0.65);
-    
+
 }
 
 footer #footer-links {
@@ -112,7 +112,7 @@ footer #footer-links #each-link {
 footer #footer-links #each-link a {
     color:floralwhite;
     margin: 12px;
-    
+
 }
 
 footer #footer-links ul {
